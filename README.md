@@ -1,42 +1,56 @@
-<h1 align="center">Hi 👋, I'm LEBRINI AMINE</h1>
-<h3 align="center">A passionate Web & App developer from Morocco</h3>
+## Hi there! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminelebrini&label=Profile%20views&color=0e75b6&style=flat" alt="aminelebrini" /> </p>
+I'm **Amine Lebrini**, a passionate **UI/UX Designer** and **Junior JavaScript Developer**. I specialize in creating beautiful, user-friendly web and mobile applications, and I'm always eager to learn and grow in the tech world!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminelebrini" alt="aminelebrini" /></a> </p>
+## About Me
 
-<p align="left"> <a href="https://twitter.com/aminelebrini4" target="blank"><img src="https://img.shields.io/twitter/follow/aminelebrini4?logo=twitter&style=for-the-badge" alt="aminelebrini4" /></a> </p>
+Front-End Developer | UI/UX Designer | CEO of 01Coders Club
+Based in Khouribga, Morocco
 
-- 🌱 I’m currently learning **Back-End Development**
+I’m a 21-year-old software developer passionate about crafting impactful digital experiences. Fluent in Arabic, French, and English, I thrive in multicultural, cross-functional environments.
 
-- 👨‍💻 All of my projects are available at [https://aminelebrini.github.io/amine.dev](https://aminelebrini.github.io/amine.dev)
+As a Front-End Developer, I specialize in building responsive, high-performance web applications using HTML, CSS, JavaScript, and React.
 
-- 💬 Ask me about **JAVA, JAVASCRIPT**
+As a UI/UX Designer, I design intuitive, user-centered interfaces using Figma and modern design systems—bridging the gap between visual design and robust implementation.
 
-- 📫 How to reach me **aminelebrini4@gmail.com**
+I’m committed to building clean, accessible, and scalable digital products that deliver seamless and engaging user experiences across the web.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+As the CEO of 01Coders Club, I lead a community-driven initiative that empowers developers and designers through collaboration, innovation, and purposeful design.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/aminelebrini" target="blank"><img align="center" src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="aminelebrini" height="30" width="40" /></a>
-<a href="https://twitter.com/aminelebrini4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aminelebrini4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amine-lebrini-76b526297/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amine-lebrini-76b526297/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/profile.php?id=100077032690356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100077032690356" height="30" width="40" /></a>
-<a href="https://instagram.com/amine_lebrini_42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amine_lebrini_42" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/techno coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techno coding" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aminelebrini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aminelebrini" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aminelebrini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aminelebrini" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aminelebrini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aminelebrini" height="30" width="40" /></a>
-</p>
+## Skills & Technologies
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+c,js,html,css,react,nodejs,express,mysql,git,github,figma,java,php,androidstudio,vscode,linux
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminelebrini&show_icons=true&locale=en&layout=compact" alt="aminelebrini" /></p>
+## Top Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminelebrini&show_icons=true&locale=en" alt="aminelebrini" /></p>
+- [C-exercises](https://github.com/aminelebrini/C-exercises) - Contains various exercises in C programming. ⭐️ 0 Stars | ⚙️ Language: C 
+- [Front-End-Projects](https://github.com/aminelebrini/Front-End-Projects) - A collection of front-end projects showcasing HTML/CSS/JavaScript skills. ⭐️ 1 Star | ⚙️ Language: HTML 
+- [React-Js-Projects](https://github.com/aminelebrini/React-Js-Projects) - A repository of various projects built with React.js. ⭐️ 0 Stars | ⚙️ Language: JavaScript 
+- [amine.dev](https://github.com/aminelebrini/amine.dev) - Personal website showcasing my portfolio. ⭐️ 0 Stars | ⚙️ Language: HTML 
+- [NodeJs-Projects](https://github.com/aminelebrini/NodeJs-Projects) - Collection of projects built using Node.js. ⭐️ 0 Stars | ⚙️ Language: HTML
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminelebrini&" alt="aminelebrini" /></p>
+## GitHub Stats
+
+📊 **Public Repositories:** 19  
+👥 **Followers:** 187  
+👤 **Following:** 304  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminelebrini&show_icons=true&theme=radical)
+
+## Latest Blog Posts
+
+Check out my Portfolio for insights into web development, design, and technology trends: [My Portfolio](https://amine-lebrini.pages.dev/)
+
+## Connect with Me
+
+{"linkedin":"https://www.linkedin.com/in/amine-lebrini-76b526297/","instagram":"https://www.instagram.com/techno_coding_/","twitter":"https://x.com/AmineLebrini4","whatsapp":"https://wa.me/212716038492"}
+
+## ASCII Art
+
+```
+                  _            _      _          _       _ 
+   __ _ _ __ ___ (_)_ __   ___| | ___| |__  _ __(_)_ __ (_)
+  / _` | '_ ` _ \| | '_ \ / _ \ |/ _ \ '_ \| '__| | '_ \| |
+ | (_| | | | | | | | | | |  __/ |  __/ |_) | |  | | | | | |
+  \__,_|_| |_| |_|_|_| |_|\___|_|\___|_.__/|_|  |_|_| |_|_|
+                                                           
+```
