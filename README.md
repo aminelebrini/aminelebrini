@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm LEBRINI AMINE</h1>
 <h3 align="center">A passionate Web & App developer from Morocco</h3>
-<img src="https://media.licdn.com/dms/image/C4D1BAQFFp2ePlYBGIQ/company-background_10000/0/1618416714415/42network_cover?e=2147483647&v=beta&t=v3n02wVYGN4d6o_ZBHqcQaiBURLxgyNvAwXThmILtY4" width="100%" height="40"/> 
+<img src="https://media.licdn.com/dms/image/C4D1BAQFFp2ePlYBGIQ/company-background_10000/0/1618416714415/42network_cover?e=2147483647&v=beta&t=v3n02wVYGN4d6o_ZBHqcQaiBURLxgyNvAwXThmILtY4" width="100%" height="100px"/> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminelebrini&label=Profile%20views&color=0e75b6&style=flat" alt="aminelebrini" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminelebrini" alt="aminelebrini" /></a> </p>
