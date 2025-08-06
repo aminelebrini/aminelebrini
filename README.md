@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/aminelebrini" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/405/72/png-transparent-dev-logos-and-brands-line-filled-icon.png" alt="aminelebrini" height="30" width="40" /></a>
-<a href="https://twitter.com/aminelebrini4" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" alt="aminelebrini4" height="30" width="40" /></a>
+<a href="https://twitter.com/aminelebrini4" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" alt="aminelebrini4" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/amine-lebrini-76b526297/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amine-lebrini-76b526297/" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/profile.php?id=100077032690356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100077032690356" height="30" width="40" /></a>
 <a href="https://instagram.com/amine_lebrini_42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amine_lebrini_42" height="30" width="40" /></a>
