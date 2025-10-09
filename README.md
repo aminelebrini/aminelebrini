@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aminelebrini4" target="blank"><img src="https://img.shields.io/twitter/follow/aminelebrini4?logo=twitter&style=for-the-badge" alt="aminelebrini4" /></a> </p>
 
-- 🌱 I’m currently learning **Back-End Development**
+- 🌱 I’m currently learning **Front-End Development**
 
 - 👨‍💻 All of my projects are available at [https://amine-lebrini.pages.dev](https://amine-lebrini.pages.dev)
 
