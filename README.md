@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LEBRINI AMINE</h1>
-<h3 align="center">A passionate Web & App developer from Morocco</h3>
+<h3 align="center">A passionate Web developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminelebrini&label=Profile%20views&color=0e75b6&style=flat" alt="aminelebrini" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amine-lebrini.pages.dev](https://amine-lebrini.pages.dev)
 
-- 💬 Ask me about **JAVA, JAVASCRIPT**
+- 💬 Ask me about **JAVASCRIPT**
 
 - 📫 How to reach me **aminelebrini4@gmail.com**
 
