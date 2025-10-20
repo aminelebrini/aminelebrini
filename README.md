@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://amine-lebrini.pages.dev](https://amine-lebrini.pages.dev)
 
-- 💬 Ask me about **JAVASCRIPT**
-
 - 📫 How to reach me **aminelebrini4@gmail.com**
 
 ### Blogs posts
