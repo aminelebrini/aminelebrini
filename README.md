@@ -34,7 +34,7 @@
     </td>
     <td width="50%" valign="top">
       <h4>⚙️ Backend & Systems</h4>
-      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,docker,linux,bash&perline=4" />
+      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgresql,docker,linux,bash&perline=4" />
       <p>Building robust APIs and containerized microservices with <b>Docker</b>.</p>
     </td>
   </tr>
