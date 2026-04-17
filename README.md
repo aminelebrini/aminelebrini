@@ -1,35 +1,34 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=280&section=header&text=Amine%20Lebrini&fontSize=70&animation=twinkling&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=250&section=header&text=Amine%20Lebrini&fontSize=80&animation=fadeIn&fontAlignY=40" width="100%" />
 
   <br/>
 
-  ### ⚡ Full-Stack Developer | SaaS & AI Architect 🚀
-  **Crafting high-performance digital experiences in the Moroccan Tech Ecosystem**
+  ## 🚀 Full-Stack Developer | SaaS & AI Specialist
+  **Transforming complex requirements into scalable digital solutions**
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-lebrini-76b526297/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amine-lebrini.pages.dev)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminelebrini4@gmail.com)
-
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminelebrini&layout=compact&theme=tokyonight&border_radius=20&hide_border=true&langs_count=8" width="45%" />
+  <p align="center">
+    <a href="https://linkedin.com/in/amine-lebrini-76b526297/"><img src="https://img.shields.io/badge/-LinkedIn-0e75b6?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+    <a href="https://amine-lebrini.pages.dev"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+    <a href="mailto:aminelebrini4@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  </p>
 </div>
 
 ---
 
-### 🛠️ The Tech Arsenal
+### 🛠️ Technical Ecosystem
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td width="50%" valign="top">
-        <p align="center"><b>🌐 Frontend & UI/UX</b></p>
-        <img src="https://skillicons.dev/icons?i=js,ts,vue,tailwind,html,css,figma&perline=4" />
-        <p>Specialized in <b>Glassmorphism</b> and interactive interfaces.</p>
+      <td width="50%" align="left">
+        <h4>🎨 Frontend Architecture</h4>
+        <img src="https://skillicons.dev/icons?i=js,ts,vue,tailwind,figma&theme=dark" />
+        <p>Focus sur l'expérience utilisateur et les interfaces <b>Glassmorphism</b>.</p>
       </td>
-      <td width="50%" valign="top">
-        <p align="center"><b>⚙️ Backend & Infrastructure</b></p>
-        <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgresql,docker,linux,bash&perline=4" />
-        <p>Building scalable APIs and containerized microservices.</p>
+      <td width="50%" align="left">
+        <h4>⚙️ Backend Systems</h4>
+        <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgresql,docker,linux&theme=dark" />
+        <p>Expertise en APIs RESTful et architectures microservices.</p>
       </td>
     </tr>
   </table>
@@ -37,68 +36,51 @@
 
 ---
 
-### 🚀 Featured Productions
+### 💎 Signature Projects
 
 <div align="center">
-  <a href="https://github.com/aminelebrini/YouCode-Sprint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aminelebrini&repo=YouCode-Sprint&theme=tokyonight&border_radius=15&title_color=0e75b6&text_color=ffffff" />
-  </a>
-  <a href="https://github.com/aminelebrini/Greenify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aminelebrini&repo=Greenify&theme=tokyonight&border_radius=15&title_color=0e75b6&text_color=ffffff" />
-  </a>
-</div>
-
-<br/>
-
-<details>
-  <summary align="center"><b>🔍 Discover More Projects</b></summary>
   <br/>
-  <div align="center">
-    <table>
-      <tr>
-        <td><b>🏠 EasyColoc</b></td>
-        <td>Expense management system with complex SQL analytics.</td>
-      </tr>
-      <tr>
-        <td><b>📚 ReadUp</b></td>
-        <td>Full OOP Laravel multi-actor blogging platform.</td>
-      </tr>
-      <tr>
-        <td><b>🎮 Next Play</b></td>
-        <td>Curated digital game catalogue and tracking system.</td>
-      </tr>
-    </table>
-  </div>
-</details>
-
----
-
-### 📊 Engineering Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aminelebrini&show_icons=true&theme=tokyonight&count_private=true&border_radius=15&title_color=0e75b6" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminelebrini&theme=tokyonight&border_radius=15&stroke=0e75b6" height="180" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminelebrini&theme=tokyonight&area=true&hide_border=true&color=0e75b6" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td align="center">🎓 <b>Engineering Student</b><br/>YouCode Morocco</td>
-      <td align="center">🤖 <b>AI Integration</b><br/>Computer Vision & SaaS</td>
+      <td>
+        <a href="https://github.com/aminelebrini/YouCode-Sprint">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aminelebrini&repo=YouCode-Sprint&theme=tokyonight&border_radius=20&title_color=0e75b6&hide_border=true" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/aminelebrini/Greenify">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aminelebrini&repo=Greenify&theme=tokyonight&border_radius=20&title_color=0e75b6&hide_border=true" />
+        </a>
+      </td>
     </tr>
   </table>
-
   <br/>
-
-  <img src="https://komarev.com/ghpvc/?username=aminelebrini&label=Profile%20Views&color=0e75b6&style=flat-square" />
-  <br/>
-  <sub><i>Refining the future of tech, one commit at a time.</i></sub>
+  
+  <details>
+    <summary><b>📂 Explore Archive (EasyColoc, ReadUp, Next Play)</b></summary>
+    <p><i>Systèmes de gestion de colocations, plateformes de blogging OOP et catalogues de jeux.</i></p>
+  </details>
 </div>
+
+---
+
+### 📈 Activity & Impact
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aminelebrini&show_icons=true&theme=tokyonight&count_private=true&border_radius=20&hide_border=true&title_color=0e75b6" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminelebrini&theme=tokyonight&border_radius=20&hide_border=true&stroke=0e75b6&ring=0e75b6" height="170" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminelebrini&theme=tokyonight&area=true&hide_border=true&color=0e75b6" width="95%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aminelebrini&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</div>
+
+<p align="center">
+  <sub><i>Innovating from Casablanca 🇲🇦 | Last update: 2026</i></sub>
+</p>
