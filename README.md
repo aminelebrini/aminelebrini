@@ -14,7 +14,7 @@
 ### 💫 About Me
 - 🚀 **Full-Stack Developer** focused on building robust web and mobile applications.
 - 🎓 Blending **Technical expertise** with a strong understanding of **Business & Management needs**.
-- 🛠️ Specialized in the **JavaScript & PHP ecosystems**, craftting high-performance solutions with **Laravel, Vue.js, and Nuxt.js**.
+- 🛠️ Specialized in the **JavaScript & TypeScript & PHP ecosystems**, craftting high-performance solutions with **Laravel, Vue.js, and React Native**.
 - 🐳 Big fan of containerization, ensuring seamless **deployment** using **Docker**.
 - 📬 Reach me via email at: **aminelebrini4@gmail.com**
 
