@@ -1,31 +1,140 @@
-<h1 align="center">Hi 👋, I'm AMINE LEBRINI</h1>
-<h3 align="center">A passionate Full-Stack Developer & Future AI Engineer from Morocco</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminelebrini&label=Profile%20views&color=0e75b6&style=flat" alt="aminelebrini" /> </p>
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3C8CE7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Developer;Software+Engineer;Future+AI+Engineer;Morocco+%F0%9F%87%82%F0%9F%87%8E" alt="Typing SVG" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminelebrini" alt="aminelebrini" /></a> </p>
+<!-- Profile views -->
+<img src="https://komarev.com/ghpvc/?username=aminelebrini&label=Profile%20views&color=0e75b6&style=flat" alt="aminelebrini" />
 
-<p align="left"> <a href="https://twitter.com/aminelebrini4" target="blank"><img src="https://img.shields.io/twitter/follow/aminelebrini4?logo=twitter&style=for-the-badge" alt="aminelebrini4" /></a> </p>
+<!-- Trophy -->
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminelebrini&theme=algolia&no-frame=true&no-bg=true&column=7" alt="aminelebrini" /></a>
 
-- 🌱 I’m currently learning **Python, FastApi , DevOps, System Design**
+</div>
 
-- 📫 How to reach me **aminelebrini4@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/aminelebrini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aminelebrini" height="30" width="40" /></a>
-<a href="https://twitter.com/aminelebrini4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aminelebrini4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aminelebrini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aminelebrini" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aminelebrini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aminelebrini" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aminelebrini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aminelebrini" height="30" width="40" /></a>
-<a href="https://discord.gg/aminelebrini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aminelebrini" height="30" width="40" /></a>
-</p>
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+```yaml
+name: "Amine Lebrini"
+location: "Morocco"
+current_role: "Software Engineering Student @ YouCode - UM6P"
+future_goal: "AI Engineer"
+focus:
+  - "Full-Stack Development"
+  - "Software Architecture"
+  - "AI & Machine Learning"
+  - "DevOps & Cloud"
+learning_now:
+  - "Python & FastAPI"
+  - "System Design"
+  - "DevOps"
+  - "AI/ML (starting next year)"
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminelebrini&show_icons=true&locale=en&layout=compact" alt="aminelebrini" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminelebrini&show_icons=true&locale=en" alt="aminelebrini" /></p>
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredotnet/azuredotnet-original.svg" width="24"/> Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminelebrini&" alt="aminelebrini" /></p>
+<div align="center">
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Shell Script](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+#### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+#### Backend & Database
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/> Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Reo-Agent**](https://github.com/aminelebrini/Reo-Agent) | AI-powered agent system | `TypeScript` |
+| [**Project-Claude-Ai-UI-Gen**](https://github.com/aminelebrini/Project-Claude-Ai-UI-Gen) | Claude AI UI generation tool | `TypeScript` |
+| [**deploy-to-azure**](https://github.com/aminelebrini/deploy-to-azure) | Azure deployment automation | `JavaScript` |
+| [**create-ci-workflow**](https://github.com/aminelebrini/create-ci-workflow) | CI/CD workflow creator | `Python` |
+| [**hr-management**](https://github.com/aminelebrini/hr-management) | HR management system | `Vue.js` |
+| [**Stratix**](https://github.com/aminelebrini/Stratix) | Strategic platform | `Vue.js` |
+| [**QuizMaster**](https://github.com/aminelebrini/QuizMaster) | Quiz application | `Vue.js` |
+| [**Score-API**](https://github.com/aminelebrini/Score-API) | Score tracking API | `Vue.js` |
+| [**Taqsna**](https://github.com/aminelebrini/Taqsna) | Full-stack application | `TypeScript` |
+| [**python-playground**](https://github.com/aminelebrini/python-playground) | Python experiments | `Python` |
+| [**IPTV**](https://github.com/aminelebrini/IPTV) | M3U playlist manager | `Python` |
+| [**Shell-Scripting**](https://github.com/aminelebrini/Shell-Scripting) | Shell script collection | `Shell` |
+| [**YouCode-Sprint**](https://github.com/aminelebrini/YouCode-Sprint) | Sprint management platform | `Blade` |
+| [**QConnect-FullStack**](https://github.com/aminelebrini/QConnect-FullStack) | Full-stack connectivity app | `PHP` |
+| [**football-app**](https://github.com/aminelebrini/football-app) | Football application | `PHP` |
+| [**EasyColoc**](https://github.com/aminelebrini/EasyColoc) | Colocation management | `PHP` |
+| [**Greenify**](https://github.com/aminelebrini/Greenify) | Green initiative app | `JavaScript` |
+| [**macos**](https://github.com/aminelebrini/macos) | MacOS in Docker | `Shell` |
+
+</div>
+
+---
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/> GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aminelebrini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminelebrini&layout=compact&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+![aminelebrini's streak](https://github-readme-streak-stats.herokuapp.com/?user=aminelebrini&theme=tokyonight)
+
+</div>
+
+---
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="24"/> Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminelebrini4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aminelebrini)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aminelebrini4)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aminelebrini)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/aminelebrini)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aminelebrini)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aminelebrini)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitors](https://api.star-history.com/svg?repos=aminelebrini/aminelebrini&type=DateLine)
+
+*"Building the future, one commit at a time."*
+
+</div>
