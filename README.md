@@ -20,6 +20,7 @@ name: "Amine Lebrini"
 location: "Morocco"
 current_role: "Software Engineering Student @ YouCode - UM6P"
 future_goal: "AI Engineer"
+bio: "Full-Stack Developer | React Native | Laravel & Vue.js | JavaScript | TypeScript | PHP | Docker | UI/UX"
 focus:
   - "Full-Stack Development"
   - "Software Architecture"
@@ -88,7 +89,7 @@ learning_now:
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/aminelebrini)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aminelebrini)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aminelebrini)
-[![CodinGame](https://img.shields.io/badge/CodinGame-F2BB05?style=for-the-badge&logo=codingame&logoColor=white)](https://www.codingame.com/profile/aminelebrini)
+[![CodinGame](https://img.shields.io/badge/CodinGame-F2BB05?style=for-the-badge&logo=codingame&logoColor=white)](https://www.codingame.com/profile/cdae969fb36fa999706ccac03a42a3221472955)
 
 </div>
 
