@@ -69,51 +69,9 @@ learning_now:
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/> Featured Projects
 
-<div align="center">
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Reo-Agent**](https://github.com/aminelebrini/Reo-Agent) | AI-powered agent system | `TypeScript` |
-| [**Project-Claude-Ai-UI-Gen**](https://github.com/aminelebrini/Project-Claude-Ai-UI-Gen) | Claude AI UI generation tool | `TypeScript` |
-| [**deploy-to-azure**](https://github.com/aminelebrini/deploy-to-azure) | Azure deployment automation | `JavaScript` |
-| [**create-ci-workflow**](https://github.com/aminelebrini/create-ci-workflow) | CI/CD workflow creator | `Python` |
-| [**hr-management**](https://github.com/aminelebrini/hr-management) | HR management system | `Vue.js` |
-| [**Stratix**](https://github.com/aminelebrini/Stratix) | Strategic platform | `Vue.js` |
-| [**QuizMaster**](https://github.com/aminelebrini/QuizMaster) | Quiz application | `Vue.js` |
-| [**Score-API**](https://github.com/aminelebrini/Score-API) | Score tracking API | `Vue.js` |
-| [**Taqsna**](https://github.com/aminelebrini/Taqsna) | Full-stack application | `TypeScript` |
-| [**python-playground**](https://github.com/aminelebrini/python-playground) | Python experiments | `Python` |
-| [**IPTV**](https://github.com/aminelebrini/IPTV) | M3U playlist manager | `Python` |
-| [**Shell-Scripting**](https://github.com/aminelebrini/Shell-Scripting) | Shell script collection | `Shell` |
-| [**YouCode-Sprint**](https://github.com/aminelebrini/YouCode-Sprint) | Sprint management platform | `Blade` |
-| [**QConnect-FullStack**](https://github.com/aminelebrini/QConnect-FullStack) | Full-stack connectivity app | `PHP` |
-| [**football-app**](https://github.com/aminelebrini/football-app) | Football application | `PHP` |
-| [**EasyColoc**](https://github.com/aminelebrini/EasyColoc) | Colocation management | `PHP` |
-| [**Greenify**](https://github.com/aminelebrini/Greenify) | Green initiative app | `JavaScript` |
-| [**macos**](https://github.com/aminelebrini/macos) | MacOS in Docker | `Shell` |
 
-</div>
-
----
-
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/> GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aminelebrini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminelebrini&layout=compact&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-![aminelebrini's streak](https://github-readme-streak-stats.herokuapp.com/?user=aminelebrini&theme=tokyonight)
-
-</div>
-
----
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="24"/> Connect
 
@@ -125,15 +83,12 @@ learning_now:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aminelebrini)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/aminelebrini)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aminelebrini)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aminelebrini)
 
 </div>
 
 ---
 
 <div align="center">
-
-![Visitors](https://api.star-history.com/svg?repos=aminelebrini/aminelebrini&type=DateLine)
 
 *"Building the future, one commit at a time."*
 
