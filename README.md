@@ -88,6 +88,7 @@ learning_now:
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/aminelebrini)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aminelebrini)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aminelebrini)
+[![CodinGame](https://img.shields.io/badge/CodinGame-F2BB05?style=for-the-badge&logo=codingame&logoColor=white)](https://www.codingame.com/profile/aminelebrini)
 
 </div>
 
