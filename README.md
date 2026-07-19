@@ -13,8 +13,6 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> About Me
-
 ```yaml
 name: "Amine Lebrini"
 location: "Morocco"
@@ -73,12 +71,6 @@ learning_now:
 </div>
 
 ---
-
-
-
-
-
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="24"/> Connect
 
 <div align="center">
 
